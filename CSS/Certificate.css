@@ -1,0 +1,46 @@
+/* change background color */
+body{
+    background-color: antiquewhite;
+}
+/* Text assign */
+h1{
+    text-align: center;
+    font-size: 400%;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(219, 101, 22);
+}
+table{
+    width: 100%;
+}
+td{
+    width: 33.33%;
+}
+.button1{
+    background-color: #f10909; /* Red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    left: 20px;
+}
+.button2{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    right: 20px;
+}
+#certificate{
+    width: 100%;
+}

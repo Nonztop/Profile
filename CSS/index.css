@@ -1,0 +1,36 @@
+/* change background color */
+body{
+    background-color: antiquewhite;
+    font-size: xx-large;
+    font-weight: 200;
+}
+/* Text assign */
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+td{
+    width: 33.33%;
+}
+.Profile{
+    text-decoration: underline;
+    color: red;
+}
+.Option{
+    border: 2px solid brown;
+}
+.Option td{
+    width: 50%;
+}
+.Option td:hover{
+    background-color: #dee767;
+}

@@ -1,0 +1,30 @@
+/* change background color */
+body{
+    background-color: antiquewhite;
+}
+/* Text assign */
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 400%;
+    font-weight: 1000;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+    font-size: 35px;
+    font-weight: 500;
+}
+.Picture{
+    position: fixed;
+    top: 17%;
+    left:  23%;
+    width: 23%;
+}
+.topic{
+    font-size: 50px;
+    font-weight: 1000;
+    color: tomato;
+}
